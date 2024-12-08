@@ -1,3 +1,4 @@
 red - first color in the rainbow
 orange - second color in the rainbow
-yellow = three color in the rainbow
+yellow - three color in the rainbow
+green - four color in the rainbow
