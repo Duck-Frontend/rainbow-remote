@@ -1,2 +1,2 @@
 red - first color in the rainbow
-
+orange - second color in the rainbow
